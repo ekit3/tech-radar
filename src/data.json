@@ -8,7 +8,19 @@
   {
     "quadrant": "Front",
     "ring": "adopt",
-    "name": "AngularJS",
+    "name": "Typescript",
+    "isNew": false
+  },
+  {
+    "quadrant": "Front",
+    "ring": "adopt",
+    "name": "EcmaScript 6",
+    "isNew": false
+  },
+  {
+    "quadrant": "Front",
+    "ring": "adopt",
+    "name": "Angular",
     "isNew": false
   },
   {
@@ -210,93 +222,122 @@
   {
     "name": "MongoDb",
     "ring": "adopt",
-    "quadrant": "Platforms & Tools",
+    "quadrant": "Platforms",
     "isNew": false,
     "description": ""
   },
   {
     "name": "PostgreSQL",
     "ring": "adopt",
-    "quadrant": "Platforms & Tools",
+    "quadrant": "Platforms",
     "isNew": false,
     "description": ""
   },
   {
     "name": "Kafka",
     "ring": "assess",
-    "quadrant": "Platforms & Tools",
+    "quadrant": "Platforms",
     "isNew": true,
     "description": ""
   },
   {
     "name": "Redis",
     "ring": "assess",
-    "quadrant": "Platforms & Tools",
+    "quadrant": "Platforms",
     "isNew": true,
     "description": ""
   },
   {
     "name": "Terrafom",
     "ring": "assess",
-    "quadrant": "Platforms & Tools",
+    "quadrant": "Tools",
     "isNew": true,
     "description": ""
   },
   {
     "name": "GraphQL",
     "ring": "assess",
-    "quadrant": "Platforms & Tools",
+    "quadrant": "Back",
     "isNew": true,
     "description": ""
   },
   {
     "name": "AWS",
     "ring": "assess",
-    "quadrant": "Platforms & Tools",
+    "quadrant": "Platforms",
     "isNew": true,
     "description": ""
   },
   {
     "name": "Azure",
     "ring": "assess",
-    "quadrant": "Platforms & Tools",
+    "quadrant": "Platforms",
     "isNew": true,
     "description": ""
   },
   {
     "name": "Google Cloud Platform",
     "ring": "assess",
-    "quadrant": "Platforms & Tools",
+    "quadrant": "Platforms",
+    "isNew": true,
+    "description": ""
+  },
+  {
+    "name": "Docker",
+    "ring": "assess",
+    "quadrant": "Platforms",
     "isNew": true,
     "description": ""
   },
   {
     "name": "Kubernetes",
     "ring": "assess",
-    "quadrant": "Platforms & Tools",
+    "quadrant": "Platforms",
     "isNew": true,
     "description": ""
   },
   {
     "name": "Elasticsearch",
     "ring": "adopt",
-    "quadrant": "Platforms & Tools",
+    "quadrant": "Platforms",
     "isNew": true,
     "description": ""
   },
   {
     "name": "Jenkins",
     "ring": "adopt",
-    "quadrant": "Platforms & Tools",
-    "isNew": true,
-    "description": "Apache Maven"
+    "quadrant": "Tools",
+    "isNew": true
   },
   {
-    "name": "",
+    "name": "Gitlab-CI",
+    "ring": "assess",
+    "quadrant": "Tools",
+    "isNew": true
+  },
+  {
+    "name": "Github Actions",
+    "ring": "assess",
+    "quadrant": "Tools",
+    "isNew": true
+  },
+  {
+    "name": "Git",
     "ring": "adopt",
-    "quadrant": "Empty",
-    "isNew": true,
-    "visible": false
+    "quadrant": "Tools",
+    "isNew": true
+  },
+  {
+    "name": "Gitkraken",
+    "ring": "assess",
+    "quadrant": "Tools",
+    "isNew": true
+  },
+  {
+    "name": "IntelliJ IDEA",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": true
   }
 
 ]
