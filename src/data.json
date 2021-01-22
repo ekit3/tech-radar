@@ -1,0 +1,302 @@
+[
+  {
+    "quadrant": "Front",
+    "ring": "adopt",
+    "name": "VueJS",
+    "isNew": false
+  },
+  {
+    "quadrant": "Front",
+    "ring": "adopt",
+    "name": "AngularJS",
+    "isNew": false
+  },
+  {
+    "quadrant": "Front",
+    "ring": "adopt",
+    "name": "ReactJS",
+    "isNew": false
+  },
+
+
+  {
+    "quadrant": "Front",
+    "ring": "assess",
+    "name": "Beard (Atomic Design CSS)",
+    "isNew": true
+  },
+  {
+    "quadrant": "Front",
+    "ring": "assess",
+    "name": "Tailwind CSS",
+    "isNew": true
+  },
+  {
+    "quadrant": "Front",
+    "ring": "assess",
+    "name": "Bulma CSS",
+    "isNew": true
+  },
+  {
+    "quadrant": "Front",
+    "ring": "assess",
+    "name": "AlpineJS",
+    "isNew": true
+  },
+  {
+    "quadrant": "Front",
+    "ring": "assess",
+    "name": "SvelteJS",
+    "isNew": true
+  },
+  {
+    "quadrant": "Front",
+    "ring": "assess",
+    "name": "dayJS",
+    "isNew": true
+  },
+  {
+    "quadrant": "Front",
+    "ring": "assess",
+    "name": "JAWS (accessibility)",
+    "isNew": true
+  },
+  {
+    "quadrant": "Front",
+    "ring": "assess",
+    "name": "PageSpeed",
+    "isNew": true
+  },
+  {
+    "quadrant": "Front",
+    "ring": "assess",
+    "name": "LightHouse",
+    "isNew": true
+  },
+  {
+    "quadrant": "Front",
+    "ring": "assess",
+    "name": "Jest (testing)",
+    "isNew": true
+  },
+  {
+    "quadrant": "Front",
+    "ring": "assess",
+    "name": "PWA",
+    "isNew": true
+  },
+  {
+    "quadrant": "Front",
+    "ring": "assess",
+    "name": "Web Components API",
+    "isNew": true
+  },
+  {
+    "quadrant": "Front",
+    "ring": "hold",
+    "name": "momentJS",
+    "isNew": false
+  },
+
+
+  {
+    "name": "Gradle",
+    "ring": "adopt",
+    "quadrant": "Back",
+    "isNew": true,
+    "description": ""
+  },
+  {
+    "name": "Maven",
+    "ring": "adopt",
+    "quadrant": "Back",
+    "isNew": true,
+    "description": ""
+  },
+  {
+    "ring": "adopt",
+    "quadrant": "Back",
+    "name": "Java 11",
+    "isNew": false,
+    "description": "LTS version of the Java language"
+  },
+  {
+    "ring": "adopt",
+    "quadrant": "Back",
+    "name": "Kotlin",
+    "isNew": true
+  },
+  {
+    "name": "Rust",
+    "ring": "assess",
+    "quadrant": "Back",
+    "isNew": true,
+    "description": ""
+  },
+  {
+    "name": "Go",
+    "ring": "assess",
+    "quadrant": "Back",
+    "isNew": true,
+    "description": ""
+  },
+  {
+    "name": "Java 15",
+    "ring": "adopt",
+    "quadrant": "Back",
+    "isNew": false,
+    "description": "Latest version of the Java language"
+  },
+  {
+    "name": "Java 17",
+    "ring": "assess",
+    "quadrant": "Back",
+    "isNew": true,
+    "description": "Future LTS of the Java language"
+  },
+  {
+    "name": "Spring-Boot",
+    "ring": "adopt",
+    "quadrant": "Back",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "NodeJS",
+    "ring": "adopt",
+    "quadrant": "Back",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "Quarkus",
+    "ring": "assess",
+    "quadrant": "Back",
+    "isNew": true,
+    "description": ""
+  },
+  {
+    "name": "Micronaut",
+    "ring": "assess",
+    "quadrant": "Back",
+    "isNew": true,
+    "description": ""
+  },
+  {
+    "name": "Vert.x",
+    "ring": "assess",
+    "quadrant": "Back",
+    "isNew": true,
+    "description": ""
+  },
+  {
+    "name": "Reactor",
+    "ring": "assess",
+    "quadrant": "Back",
+    "isNew": true,
+    "description": ""
+  },
+  {
+    "name": "GraalVM",
+    "ring": "adopt",
+    "quadrant": "Back",
+    "isNew": true
+  },
+
+
+
+
+
+  {
+    "name": "MongoDb",
+    "ring": "adopt",
+    "quadrant": "Platforms & Tools",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "PostgreSQL",
+    "ring": "adopt",
+    "quadrant": "Platforms & Tools",
+    "isNew": false,
+    "description": ""
+  },
+  {
+    "name": "Kafka",
+    "ring": "assess",
+    "quadrant": "Platforms & Tools",
+    "isNew": true,
+    "description": ""
+  },
+  {
+    "name": "Redis",
+    "ring": "assess",
+    "quadrant": "Platforms & Tools",
+    "isNew": true,
+    "description": ""
+  },
+  {
+    "name": "Terrafom",
+    "ring": "assess",
+    "quadrant": "Platforms & Tools",
+    "isNew": true,
+    "description": ""
+  },
+  {
+    "name": "GraphQL",
+    "ring": "assess",
+    "quadrant": "Platforms & Tools",
+    "isNew": true,
+    "description": ""
+  },
+  {
+    "name": "AWS",
+    "ring": "assess",
+    "quadrant": "Platforms & Tools",
+    "isNew": true,
+    "description": ""
+  },
+  {
+    "name": "Azure",
+    "ring": "assess",
+    "quadrant": "Platforms & Tools",
+    "isNew": true,
+    "description": ""
+  },
+  {
+    "name": "Google Cloud Platform",
+    "ring": "assess",
+    "quadrant": "Platforms & Tools",
+    "isNew": true,
+    "description": ""
+  },
+  {
+    "name": "Kubernetes",
+    "ring": "assess",
+    "quadrant": "Platforms & Tools",
+    "isNew": true,
+    "description": ""
+  },
+  {
+    "name": "Elasticsearch",
+    "ring": "adopt",
+    "quadrant": "Platforms & Tools",
+    "isNew": true,
+    "description": ""
+  },
+  {
+    "name": "Jenkins",
+    "ring": "adopt",
+    "quadrant": "Platforms & Tools",
+    "isNew": true,
+    "description": "Apache Maven"
+  },
+  {
+    "name": "",
+    "ring": "adopt",
+    "quadrant": "Empty",
+    "isNew": true,
+    "visible": false
+  }
+
+]
