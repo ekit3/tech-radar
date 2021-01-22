@@ -56,7 +56,6 @@ module.exports = {
 
   output: {
     path: buildPath,
-    publicPath: '/',
     filename: '[name].[hash].js'
   },
 
