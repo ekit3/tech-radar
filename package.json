@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "aoe_technology_radar-buildRadar",
+    "build": "REACT_APP_RADAR_NAME='Ekite Tech-Radar' aoe_technology_radar-buildRadar",
     "build-static": "aoe_technology_radar-createStaticFiles",
     "generate-json": "aoe_technology_radar-generateJson",
     "start:static": "python -m http.server 8080"
