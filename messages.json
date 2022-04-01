@@ -1,0 +1,11 @@
+{
+  "footerFootnote": "Nos experts vous accompagnent sur la réalisation et l’amélioration de vos systèmes d’information tout en étant en immersion dans vos équipes",
+  "socialLinks": [
+    {
+      "href": "https://www.linkedin.com/company/ekite/",
+      "iconName": "linkedIn"
+    },
+    { "href": "https://twitter.com/Ekite_", "iconName": "twitter" },
+    { "href": "https://github.com/ekit3", "iconName": "github" }
+  ]
+}

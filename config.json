@@ -1,0 +1,10 @@
+{
+    "quadrants": {
+      "front": "Front-end",
+      "back": "Back-end",
+      "platforms": "Platforms",
+      "tools": "Tools"
+    },
+    "rings":["adopt", "trial", "assess", "hold"],
+    "showEmptyRings": true
+  }
