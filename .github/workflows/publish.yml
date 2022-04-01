@@ -1,0 +1,38 @@
+name: Publish CI
+
+on:
+  push:
+    branches: main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: Use Node.js 16
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
+      - name: Download dependencies 🔧
+        run: yarn
+
+      - name: Build 🔧
+        run: PUBLIC_URL=/tech-radar yarn build
+
+      - name: Build Static site🔧
+        run: PUBLIC_URL=/tech-radar yarn build-static
+      
+      - name: Generate Data 🔧
+        run: yarn generate-json
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: build
+          CLEAN: true
