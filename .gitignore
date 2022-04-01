@@ -1,14 +1,3 @@
-node_modules
-bower_components
-dist
-*.swa
-*.swp
-*.swo
-
-coverage/
-
 .idea/
-.DS_Store
 
-spec/end_to_end_tests/reports/
-cypress/
+node_modules/
